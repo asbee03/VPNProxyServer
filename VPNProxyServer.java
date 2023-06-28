@@ -70,6 +70,8 @@ public void run() {
             out.println("Welcome to the VPN!");
 
 
+//still need to configure all the packages and uses for encryption
+
 // The code starts by importing necessary classes, including `java.io.*`, `java.net.*`, `javax.crypto.*`, and `javax.crypto.spec.*`.
 // The `VPN` class is defined, which contains methods for key generation, encryption, and decryption.
 // The `setKey` method is used to generate a secret key based on the provided `myKey`. 
